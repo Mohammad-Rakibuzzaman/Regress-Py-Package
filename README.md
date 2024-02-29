@@ -1,7 +1,7 @@
 # Regression Evaluating Package
 
 [![image](https://img.shields.io/pypi/v/py-package-template.svg)](#)
-[![Build Status](https://travis-ci.org/AlexIoannides/py-package-template.svg?branch=master)](#)
+
 
 The regress_py package allows users to download the contents of this [GiHub repository](https://github.com/roman1117459/regress_py_package), containing a Regression Evaluating Python package project to be used as a gradient descent, loss and regression problem for kick-starting Machine learning or Deep Learning algorithm model evaluation of **any** type of Package; destined for upload to just for local install using Pip. The downloaded package includes the following components to measure or evalute the loss or any kind of measurement without having to spend time cloning existing set-ups from other projects:
 
